@@ -1,2 +1,5 @@
-package user;public class UserController {
+package user;
+
+public class UserController {
+
 }

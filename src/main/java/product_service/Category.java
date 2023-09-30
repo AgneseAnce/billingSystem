@@ -1,26 +1,12 @@
 package product_service;
 
-public enum CategoriesServices {
-//    12%
-    INLAND_PASSENGER_TRANSPORT,
-    ACCOMMODATION,
-    THERMAL_ENERGY,
-    HOUSING_MANAGEMENT,
-//    0%
-    EXPORT_OF_GOODS,
-    SHIP_FUEL_SERVICES,
-    POSTAL,
-    MEDICAL,
-    DENTISTRY,
-    SOCIAL_CARE_REHAB,
-    PRE_SCHOOL,
-    EDUCATION,
-    THEATRE,
-    ROYALTIES,
-    SCHOOL_TRANSPORT,
-    INSURANCE,
-    CREDITING,
-    LOTTERIES,
-    IMMOVABLE,
+public enum Category {
+    STANDARD21,
+    REDUCED12,
+    REDUCED10,
+
+    REDUCED5,
+    EXEMPTED0,
     OTHER
+
 }

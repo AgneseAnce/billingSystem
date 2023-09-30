@@ -1,3 +1,5 @@
+package user;
+
 public enum Type {
     INDIVIDUAL,
     SELF_EMPLOYED,
