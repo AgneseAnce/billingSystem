@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="439d84b0-5c2e-4657-843f-bc9c0d00ce5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/invoice/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/invoice/Signature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/product_service/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/product_service/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/product_service/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/product_service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/user/UserService.java" afterDir="false" />
+    <list default="true" id="439d84b0-5c2e-4657-843f-bc9c0d00ce5b" name="Changes" comment="committed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +60,18 @@
       <option name="presentableId" value="Default" />
       <updated>1696023112271</updated>
     </task>
+    <task id="LOCAL-00001" summary="committed">
+      <created>1696112139401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696112139401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="committed" />
   </component>
 </project>
